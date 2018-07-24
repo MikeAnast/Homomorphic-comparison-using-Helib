@@ -126,8 +126,8 @@ int main(int argc, char **argv)
     /*** BEGIN INITIALIZATION ***/
     long m = 0;                   // Specific modulus
     long p = 2;                 // Plaintext base [default=2], should be a prime number
-    long r = 14;                   // Lifting [default=1]
-    long L = 35;                  // Number of levels in the modulus chain [default=heuristic]
+    long r = 8;                   // Lifting [default=1]
+    long L = 21;                  // Number of levels in the modulus chain [default=heuristic]
     long c = 2;                   // Number of columns in key-switching matrix [default=2]
     long w = 5;                  // Hamming weight of secret key
     long d = 1;                   // Degree of the field extension [default=1]
