@@ -1,5 +1,5 @@
 
-🔐 ⊗ 🔐 = :cloud: Comparison over encrypted integers using Helib.
+🔐 ⊗ 🔐 = 🌩️ Comparison over encrypted integers using Helib.
 
 Write the numbers (for 2 numbers) you want to compare homomorphically in the message1.txt document.
 
